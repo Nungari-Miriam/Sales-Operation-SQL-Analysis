@@ -19,7 +19,7 @@ The dataset used in this project was provided as part of the **PLP Scholarship p
   - Products and product lines
 
 📁 The dataset used for this analysis can be found here:  
-➡️ **[PLP Scholarship Dataset](data/)**
+➡️ **[PLP Scholarship Dataset](https://github.com/Nungari-Miriam/Sales-Operation-SQL-Analysis/tree/main/Data)**
 
 ---
 
